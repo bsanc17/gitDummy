@@ -45,6 +45,10 @@ Once you have done your changes it's time to save them in git, first use the com
  
 
 
+## Resources
+ I highly recommend checking out the following link to learn more about git, all companies use git and it is essential to know how to work with it. 
+  
+  https://hackernoon.com/understanding-git-fcffd87c15a3
 
 
 
